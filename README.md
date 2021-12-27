@@ -16,4 +16,6 @@ Unlocking:
 1. Run the program.
 2. Enter the correct password.
 
-
+Updates to come:
+1. A sort of a UI for better visual appeal.
+2. Add a encryption and decryption storage.
