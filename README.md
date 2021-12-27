@@ -4,7 +4,8 @@ It is a simple program which hides your private contents and locks them with a p
 Required Modifications:
 Change the "PASSWORD_HERE" to your desired password.
 
-Instructions:
+Instructions: 
+
 (When the program is first run, it will create a folder called "Private" and closes.)
 
 Locking:
